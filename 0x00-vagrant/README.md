@@ -1,0 +1,1 @@
+Uname command prints the type of operating system of the system a user is using.
